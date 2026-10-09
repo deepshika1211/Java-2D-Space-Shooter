@@ -72,8 +72,4 @@ java SpaceShooter
 
 This project was developed to practice Java programming, GUI development, game logic implementation, collision detection, and object-oriented software design while exploring the fundamentals of 2D game development.
 
-## 👥 Contributors & Collaboration
-
-- **Deepshika Yerrangi** ([@deepshika1211](https://github.com/deepshika1211)) — Core gameplay mechanics & architecture
-- **Abhigyan** ([@Abhigyan433](https://github.com/Abhigyan433)) — Gameplay logic & review
 
